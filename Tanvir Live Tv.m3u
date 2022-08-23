@@ -54,6 +54,8 @@ http://dangguli.live:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
 http://dangguli.live:8080/ChannelI/tracks-v1a1/mono.m3u8
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg" group-title="All",Jamuna Tv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtGxaW3T-e39fgpUYieCpR1eq2AkL3CWZ_Z0iSbXhZ2le7kDgXrW9esLSXEJe5HKT_vUY&usqp=CAU" group-title="All",CHANNEL 9
 http://208.86.19.13:81/608.stream/index.m3u8
