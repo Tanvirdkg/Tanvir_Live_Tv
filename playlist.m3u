@@ -1,7 +1,5 @@
 #=================================
-# Developed By: ABU SAEEiD × Rifaz
-# GitHub @abusaeeidx
-# IPTV Telegram Channels: @xfireflixbd
+# Developed By: Tanvir Ahmed
 # Last Updated: 2025-12-04 10:06 AM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
@@ -10,14 +8,8 @@
 #==================================
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Live Event", New Zealand vs West Indies (West Indies tour of New Zealand- 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764840832~acl=/*~id=90930447720659842738322545832791~hmac=9153eb73b9189394ac2b00ba1032eb253b49964a136a654bf6f3e250afbe106c
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg" group-title="Live Event", Hong Kong- China Women vs Malaysia Women (Hong Kong- China Women tour of Malaysia- 2025)
-https://bd-mc-fdlive.fancode.com/mumbai/138661_english_hls_9b3121322078790_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg" group-title="Live Event", Western Australia vs Victoria (Sheffield Shield- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce7067047_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/2025-Crown-Australian-Open_Old-Match-Card.png" group-title="Live Event", Day 1 vs Melbourne- Australia (Crown Australian Open 2025)
-https://bd-mc-fdlive.fancode.com/mumbai/138618_english_hls_eee8c203dc48113_1ta-di_h264/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Akash Go",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Akash Go",Deepto TV
@@ -1548,3 +1540,4 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+
